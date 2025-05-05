@@ -1,2 +1,3 @@
 # NeoDynamML
 AI-Enhanced Molecular Dynamics Pipeline for Neoantigen Dynamics Analysis in Cancer Immunotherapy
+NeoDynamML is a comprehensive end-to-end pipeline that integrates cutting-edge AI/ML techniques with molecular dynamics simulations to analyze neoantigen dynamics for cancer immunotherapy research. The pipeline identifies potential neoantigens from mutation data, predicts their binding to HLA molecules, and uses molecular dynamics simulations enhanced by machine learning to assess stability and immunogenicity. It also employs graph neural networks to model peptide-HLA interactions and uses transformers to predict T-cell reactivity, ultimately generating detailed reports on the most promising neoantigens for personalized cancer vaccines.
